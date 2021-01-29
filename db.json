@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Curso1",
+            "profesor": "Nombre2",
+            "price": "50 USD",
+            "courseImage": "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png"
+        },
+        {
+            "id": 2,
+            "title": "Curso 2",
+            "profesor": "Nombre2",
+            "price": "20 USD",
+            "courseImage": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Curso 3",
+            "profesor": "Nombre3",
+            "price": "0 USD",
+            "courseImage": "https://images.ctfassets.net/hrltx12pl8hq/4plHDVeTkWuFMihxQnzBSb/aea2f06d675c3d710d095306e377382f/shutterstock_554314555_copy.jpg"
+        }
+    ]
+}
